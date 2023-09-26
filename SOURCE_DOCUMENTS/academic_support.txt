@@ -1,0 +1,81 @@
+The following are some of the questions related to MVLU college. These questions were asked by the students of the college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly.
+
+```
+What are the timings available for parents to meet?,"Generally, parents need to take an appointment prior to meeting. 
+The timings for the appointment will depend on the availability of the college staff."
+What are the committees present in the college?,It is not possible to answer this question without prior knowledge.
+Is there a gym?,"No, there is no gym available at MVLU College."
+What payment methods available?,"We accept online UPI payments, as well as cheques and demand drafts."
+what is the website of college?,It is not possible to answer this question without prior knowledge.
+what dish is available in Canteen,"The website of college is ""https://mvlucollege.in/"""
+what is the average price of canteen dish,The average price of canteen dish is Rs. 15.
+Does vadapao is avalable in canteen,Yes! We offer good food at affordable price.
+What various activities held in the college?,"The college offers a variety of activities, including sports such as carrom, table tennis, chess, cricket, 
+and football, as well as other events like Vibes, which is held on 9th-11th January of 2023. 
+There is also a large ground available for outdoor activities. Badminton court is also available 
+behind the College Building."
+Who is the student head of the promotional committee?,The student head of the promotional committee is not specified in the given information.
+What is the fine for not wearing an ID card?,Rupee 500 is the fine for not wearing ID card.
+what are various food stalls present outside college,"Various food stalls present outside the college include stalls selling snacks, fast food, beverages, 
+and other items. Some of the popular food stalls are chaat stalls, ice cream stalls, 
+juice stalls, and sandwich stalls."
+where is the auditorium of the college,Located near the boys washroom 
+which public transport should i use to reach the college early,"Depends on where you live, you can either use roadways, railways"
+is the college located in andheri east or west,East
+what are the admission requirements to take admission in CS department,"The admission requirements to take admission in the Computer Science department at Sheth 
+Laherchand Uttamchand Jhaveri College of Arts & Sir Mathuradas Vissanji College of 
+Science & Commerce will depend on the University of Mumbai's admission requirements."
+what are the admission requirements to take admission in IT department,"The admission requirements to take admission in the Computer Science department at Sheth 
+Laherchand Uttamchand Jhaveri College of Arts & Sir Mathuradas Vissanji College of 
+Science & Commerce will depend on the University of Mumbai's admission requirements."
+what are the admission requirements to take admission in BAMMC department,"The admission requirements to take admission in the Computer Science department at Sheth 
+Laherchand Uttamchand Jhaveri College of Arts & Sir Mathuradas Vissanji College of 
+Science & Commerce will depend on the University of Mumbai's admission requirements."
+what are the admission requirements to take admission in Biotechnology department,"The admission requirements to take admission in the Computer Science department at Sheth 
+Laherchand Uttamchand Jhaveri College of Arts & Sir Mathuradas Vissanji College of 
+Science & Commerce will depend on the University of Mumbai's admission requirements."
+How can I apply as an international student,"Liek everyone else, there's no exception for students from outside the country"
+How can I take admission through minority kotha,You have to have all the valid documents necessary and these docs must be submitted at the time of admission
+Can you provide information on application deadlines,It is not possible to answer this question without prior knowledge.
+Are scholarships available for economically backward class,Yes
+Are scholarships available for OBC caste,All the notifications regarding the scholarships are announced during the admission process 
+Are scholarships available for SC/ST caste,All the notifications regarding the scholarships are announced during the admission process
+How can I apply for scholarships,Firstly you need to check if you are eligible for scholarship and then you will be guided about the process
+What is the fees structure of Computer Science department,"""S.Y. B.Sc. Comp. Sci. - 39,208/- T.Y. B.Sc. Comp. Sci. - 40,783/-"" ""S.Y.B.Sc. I T - 38,814/- T.Y.B.Sc. I.T - 40,289/-"" ""S.Y.B.Sc. Biotech - 39,208/- T.Y.B.Sc. Biotech - 40,783/-"" ""S.Y.B.A.M.M. . - 27,108/- T.Y.B.A.M.M.C. - 27,083/-"""
+what is the fees structure of Biotechnology department,"""S.Y. B.Sc. Comp. Sci. - 39,208/-
+T.Y. B.Sc. Comp. Sci. - 40,783/-""
+""S.Y.B.Sc. I T - 38,814/-
+T.Y.B.Sc. I.T - 40,289/-""
+""S.Y.B.Sc. Biotech - 39,208/-
+T.Y.B.Sc. Biotech - 40,783/-
+""
+""S.Y.B.A.M.M.C. - 27,108/-
+T.Y.B.A.M.M.C. - 27,083/-
+"""
+what is the fees structure of IT department,"""S.Y. B.Sc. Comp. Sci. - 39,208/-
+T.Y. B.Sc. Comp. Sci. - 40,783/-""
+""S.Y.B.Sc. I T - 38,814/-
+T.Y.B.Sc. I.T - 40,289/-""
+""S.Y.B.Sc. Biotech - 39,208/-
+T.Y.B.Sc. Biotech - 40,783/-
+""
+""S.Y.B.A.M.M.C. - 27,108/-
+T.Y.B.A.M.M.C. - 27,083/-
+"""
+what is the fees structure of BAMMC department,"""S.Y. B.Sc. Comp. Sci. - 39,208/-
+T.Y. B.Sc. Comp. Sci. - 40,783/-""
+""S.Y.B.Sc. I T - 38,814/-
+T.Y.B.Sc. I.T - 40,289/-""
+""S.Y.B.Sc. Biotech - 39,208/-
+T.Y.B.Sc. Biotech - 40,783/-
+""
+""S.Y.B.A.M.M.C. - 27,108/-
+T.Y.B.A.M.M.C. - 27,083/-
+"""
+What are the various committees available in the college,"Sports committee, Library committee, Social Media committee and Cultural Committee"
+how can I join the sports committee,Contact to the teacher coordinator or head of the sports committee
+how can I join the library committee,Contact to the teacher coordinator or head of the library committee
+how can I join the cultural committee,Contact to the teacher coordinator or head of the cultural committee
+how can I join the social media committee,Contact to the teacher coordinator or head of the social media committee
+who is the coordinator of sports committee,Dhwani Ma'am from Biotechnology department is the teacher coordinator of sports committee
+```

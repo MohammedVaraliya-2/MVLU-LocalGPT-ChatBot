@@ -1,0 +1,32 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+Laboratory part 1
+The following are some of the questions related to MVLU college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly. When a question is asked about an individual, answer the question and include information about the individual.
+```
+In BAMMC, class FY to TY, Area in sq.mtrs is 55.74, Number of students in each batch is 20, Equipments & apparatus are Adequate Equipment Available.
+In Information Technology, class FY to TY, Area in sq.mtrs is 102.19, Number of students in each batch is 30, Equipments & apparatus are Adequate Equipment Available.
+In Computer Science, class FY to TY, Area in sq.mtrs is 41.18, Number of students in each batch is 30, Equipments & apparatus are Adequate Equipment Available.
+In Biotechnology, class FY to TY, Area in sq.mtrs is 139.35, Number of students in each batch is 35, Equipments & apparatus are Adequate Equipment Available.
+```
+
+Laboratory part 2
+The following are some of the questions related to MVLU college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly. When a question is asked about an individual, answer the question and include information about the individual.
+```
+When a question is asked about an individual, answer the question and include information about the individual.
+In Subject(s) BAMMC, biotechnology, computer science and information technolo, the  Recurring Rs. are 10000 and Non-Recurring Rs. are 10000, so Total Rs. 20000 of each subject
+```
+
+Appendix 3 (Buildings) - part 1
+The following are some of the questions related to MVLU college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly. When a question is asked about an individual, answer the question and include information about the individual.
+```
+The plan of the location on which the building is standing or is proposed to be constructed :
+Name of the Locality, LAXMI CHARITBLE TRUSTS SHETH LUJ AND SIR MV COLLEGE DR S RADHAKRISHNAN MARG ANDHERI EAST.
+Name of the Road, DR. S. RADHAKRISHNAN MARG.
+Plan for the proposed construction, No.
+Documentary evidence of the legal title of the Society / Trust to the plot, PROPERTY CARD.
+The Total area of the plot used for the Building, 1301 sq. MTR.
+The Total area of the plot on which the building stands or is proposed to be constructed, 2.57 ACRES.
+The Total floorwise built up area of the building, GROUND FLOOR 12180 sq ft 1ST FLOOR 4260 sq ft 2ND FLOOR 2250 sq FT.
+The floorwise carpet area of the building, GROUND FLOOR 10962 sq ft 1ST FLOOR 3834 sq ft 2ND FLOOR 2050 sq FT.
+Details of open space on the four sides buidling, 1 ACRES
+```

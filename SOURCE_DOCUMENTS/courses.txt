@@ -1,11 +1,31 @@
 The following are some of the questions related to MVLU college. These questions were asked by the students of the college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly.
 
 ```
-how many courses does college offers,"The college offers four course viz. Computer Science, Information Technology, Biotechnology and Mass Media."
-what are the available courses of the college,"The college offers four course viz. Computer Science, Information Technology, Biotechnology and Mass Media."
+when was college established,The college was established in 1963.
+which year cs started in college,It is not possible to answer this question without prior knowledge.
+which year IT started in college,It is not possible to answer this question without prior knowledge.
+which year biotech started in college,It is not possible to answer this question without prior knowledge.
+which year BAMMC started in college,It is not possible to answer this question without prior knowledge.
+which year cultural commitee was established,It is not possible to answer this question without prior knowledge.
+which year vibes started,Vibes started in 2023.
+which year cricket started in college,It is not possible to answer this question without prior knowledge.
+which year footballl started in college,It is not possible to answer this question without prior knowledge.
+which year matni tadka started in college,It is not possible to answer this question without prior knowledge.
+when was director appointed,It is not possible to answer this question without prior knowledge.
+when was principal appointed,It is not possible to answer this question without prior knowledge.
+What games are available at the sports room?,It is not possible to answer this question without prior knowledge.
+What outdoor games are offfered,It is not possible to answer this question without prior knowledge.
+What are the timings of sports room ,It is not possible to answer this question without prior knowledge.
+Does college takes part in inter college events ,It is not possible to answer this question without prior knowledge.
+How many Sports are held in College,It is not possible to answer this question without prior knowledge.
+how many grounds are available ,It is not possible to answer this question without prior knowledge.
+Does Badminton court is available in college,It is not possible to answer this question without prior knowledge.
+when will the vibes,It is not possible to answer this question without prior knowledge.
+how many courses does college offers,"""The college offers four course viz. Computer Science, Information Technology, BAMMC, Biotechnology"
+what are the available courses of the college,"""The college offers four course viz. Computer Science, Information Technology, BAMMC, Biotechnology"
 what are the additional courses offered by the college,The college additional like CCSP and Digital Marketing.
 what is the fee structure of ATKT examination,The structure can be seen at mvlucollege.in
-what is the course duration of Computer science,The duration of the course is 3 years.
+what is the course duration of Computer science,It is not possible to answer this question without prior knowledge.
 what are the subjects of cs for sem-1 ,You can refer the subjects a mvlucollege.in
 what are the subjects of cs for sem-2,You can refer the subjects a mvlucollege.in
 what are the subjects of cs for sem-3,You can refer the subjects a mvlucollege.in

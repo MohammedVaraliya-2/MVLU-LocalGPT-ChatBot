@@ -1,0 +1,98 @@
+The following are some of the questions related to MVLU college. These questions were asked by the students of the college. The question and the answers are enclosed in ```. The data is in csv format. Elaborate more on the answer make it grammatically correctly.
+
+```
+who is the coordinator of cultural committee,Manisha Ma'am from BAMMC department is the teacher coordinator of cultural committee
+who is the coordinator of social media committee,Dhwani Ma'am from Biotechnology department is the teacher coordinator of social media committee
+who is the coordinator of library committee,Pankti Ma'am is the teacher coordinator of Library committee
+who is the head of cultural commitee,Aasiya Qureshi from IT department is the head and Pratham is the co-head from CS department
+who is the head of social media committee,"Amaan Sayed and Subhashish Nabajja were the orignal commiittee members, they were the ones Who laid the 
+0foundation of the Social Media committee of the entire college. They also ensure that the committee only appoints 
+the indivisuals who are skillfull to avoid situations like ""5 secs Video Editor"". "
+who is the head of library committee,Krutika Mali and Dhiraj Mishtra are head and co-head of the committee from CS department
+who is the head of sports committee,Ayush Pardale is the head of sports committee
+who is the president of vibes fest,The current and the best president till date is Mr. Mohammed Varaliya (2023)
+when will be the upcoming alumni reunion,It is not possible to answer this question without prior knowledge.
+who is the HOD of Computer Science department,Mr. Dr. Mahendra Kanojia Sir is the Head of Computer Science Department
+who is the HOD of IT department,It is not possible to answer this question without prior knowledge.
+who is the HOD of Biotechnology department,It is not possible to answer this question without prior knowledge.
+who is the HOD of BAMMC department,Manisha Sayani Ma'am is the Head of BAMMC Department
+how can I participate in the ongoing research opportunities,Contact our beloved Dr. Mahendra Kanojia sir
+what all are the companies coming for the inhouse placement,It is not possible to answer this question without prior knowledge.
+what is the library working hours,"Monday-Friday 9:00am to 3:00pm and 9:00am to 1:00pm on Saturday, Library is closed on Sunday."
+,It is not possible to answer this question without prior knowledge.
+Is using mobile phone in the library allowed,No. There is Rs.500 fine on using moblie phone in the library.
+Is using moblie phone in the classroom allowed,No. There is Rs.500 fine on using moblie phone in the classroom.
+When is the Code Execution Championship held,It is not possible to answer this question without prior knowledge.
+What is Code Execution Championship,It is not possible to answer this question without prior knowledge.
+Which programming language is asked in the Code Execution Championship,It is not possible to answer this question without prior knowledge.
+Is Code Execution Championship conducted online,It is not possible to answer this question without prior knowledge.
+Will I get the participation certificate of Code Execution Championship,YES
+Will I get the participation certificate of Vibes fest,It is not possible to answer this question without prior knowledge.
+What all games are available in vibes fest,It is not possible to answer this question without prior knowledge.
+Is vibes an inter-collegiate fest,YES
+how many stages are there in code execution championship,It is not possible to answer this question without prior knowledge.
+how many KTs are allowed to be promoted into second year,3
+how many KTs are allowed to be promoted into third year,3
+can I change the college after First year,no
+can I change the college after second year,No
+can I take admission in second year if I have one KT in first year,yes
+can I take admission in third year if I have one KT in second year,yes
+can I take admission in second year if I have two KTs in first year,yes
+can I take admission in third year if I have two KTs in second year,yes
+Are there any special programs or research opportunities ?,YES for futher details contact Dr. Mahendra Kanojia
+What are some unique traditions or rituals on campus that students participate in?,"yes ther are several unique traditions or rituals in college, such as traditional day, retro day etc."
+Do you have any annual events or festivals that are particularly unusual or fun?,It is not possible to answer this question without prior knowledge.
+How can I check my application status?,you have to visit https://mvlucollege.in/ 
+What's the average GPA and test scores for admitted students?,It is not possible to answer this question without prior knowledge.
+Is an interview required for admission?,No
+Do you offer merit-based scholarships?,No
+How do I register for classes?,It is not possible to answer this question without prior knowledge.
+What are the general education requirements?,It is not possible to answer this question without prior knowledge.
+How do I access my course schedule?,It is not possible to answer this question without prior knowledge.
+What's the grading system like?,It is not possible to answer this question without prior knowledge.
+How can I contact my academic advisor?,It is not possible to answer this question without prior knowledge.
+Are there research opportunities for undergraduates?,YES for futher details contact Dr. Mahendra Kanojia
+Can I take online courses?,YES for futher details contact Dr. Mahendra Kanojia
+Where can I find information about majors and programs?,It is not possible to answer this question without prior knowledge.
+What campus facilities are available for students?,"canteen, Library, Sport Room"
+Are there any dormitory events or activities?,No
+How can I make an appointment with a counselor?,No
+Do you offer disability support services?,Yes
+Can you tell me about the career counseling services?,No
+What do I do if I need tutoring?,no
+Tell me about upcoming sports events.,It is not possible to answer this question without prior knowledge.
+Are there concerts or theater performances?,It is not possible to answer this question without prior knowledge.
+Is there a student newspaper or media club?,It is not possible to answer this question without prior knowledge.
+What's the calendar for student activities?,We do not have this.
+Do you have any leadership development programs?,"Yes, but you wil be require to prove your worth"
+How can I propose an event or activity?,You can pitch the event to Mr. Amaan Sayed.
+How do I access e-books and digital resources?,You can access the e-books and digital resources through the N - List website.
+What IT support services do you offer?,We do not provide any IT Support Services.
+"How safe is the campus, and what's the security like?","We a strict no ragging policy, and we do not tolerate these activities."
+How can I report a lost item on campus?,You can report to Kunal Sir for any lost and found items.
+Are there facilities for student research?,Yes Rakesh will be there for you.
+What meal plans are available?,You can visit the college canteen to know more about the meal plans.
+Where and when can I eat on campus?,You can eat in the college canteen.
+Tell me about dietary options for students with allergies.,It is not possible to answer this question without prior knowledge.
+Are there options for vegan or vegetarian students?,"The college canteen is purely vegetarian, we do not have any vegan options."
+How can I provide feedback on food quality?,You can directly talk to the canteen owner to provide your valuable feedback.
+Do you have a mobile ordering system for meals?, No we do not have this facility.
+Is there a food pantry for students in need?,No we do not have this facility.
+How can I get help with my resume?,You can contact with you seniors and alumnis.
+Are there internship opportunities for my major?,Yes the college conducts yearly campus placement drives.
+Tell me about job search strategies.,Network with your seniors. Avoid commenting on LinkedIn post seeking for jobs.
+What's the alumni network like?,Our alumni are reputed individuals who are very successful in their respective fields.
+Do you offer mock interview sessions?,Yes these interviews are conducted by Amaan Sayed and Subhashish Nabajja.
+How can I explore potential career paths?,"Career paths can vary for different individuals. Exploring the career paths can be done through participating in 
+various co curircular activities. "
+Where can I find information on co-op programs?,It is not possible to answer this question without prior knowledge.
+Can I schedule a career counseling appointment?,Yes you can schedule carrer counselling appointment through the college's official website.
+What's the student code of conduct?,It is not possible to answer this question without prior knowledge.
+Explain the campus alcohol and drug policies.,Alcohol and drugs are strictly prohibited inside the college institution.
+How do parking regulations work?,We do not have parking for students. Park at your own risk
+What is the process for filing a complaint?,The complaint can either register through the official email id of the college.
+Tell me about the dress code on campus.,There is no specific dress code that is to followed within the college institution.
+How do I reserve a study room in the library?,There is no such facility in our college.
+Are there guidelines for using common areas?,The common areas are usually open during the usual college timings.
+Explain the policy on academic integrity., 
+```
